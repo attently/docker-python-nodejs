@@ -10,6 +10,11 @@
 - pip: latest
 - pipenv: latest
 
+#### Customization Additions
+- zip: latest
+- awscli: latest
+
+
 ----
 ### Pull from Docker Hub
 ```
